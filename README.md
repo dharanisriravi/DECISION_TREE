@@ -93,4 +93,4 @@ The dataset is typically available in CSV format (`diabetes.csv`).
    Implement user authentication to track personal history
 
 ## Author
-  This project was developed as part of a Machine Learning learning module by ** R.Dharani sri **. It serves as a foundational project for health-based predictive analytics.
+  This project was developed as part of a Machine Learning learning module by **R.Dharani sri**. It serves as a foundational project for health-based predictive analytics.
