@@ -63,17 +63,17 @@ The dataset is typically available in CSV format (`diabetes.csv`).
     http://127.0.0.1:5000/
 
 ## Requirements
-   Python 3.x
+   - Python 3.x
 
-   pandas
+   - pandas
 
-   numpy
+   - numpy
 
-   scikit-learn
+   - scikit-learn
 
-   flask
+   - flask
 
-   matplotlib (optional for EDA)
+   - matplotlib (optional for EDA)
 
 ## UI PREVIEW
  ## INPUT PAGE
@@ -84,13 +84,12 @@ The dataset is typically available in CSV format (`diabetes.csv`).
 
 ## Future Improvements
 
-   Add better visualizations for user feedback
+  - Add better visualizations for user feedback
 
-   Use deep learning models for improved accuracy
+  - Use deep learning models for improved accuracy
 
-   Deploy the app using platforms like Heroku or AWS
+  - Deploy the app using platforms like Heroku or AWS
 
-   Implement user authentication to track personal history
+  - Implement user authentication to track personal history
 
-## Author
-  This project was developed as part of a Machine Learning learning module by **R.Dharani sri**. It serves as a foundational project for health-based predictive analytics.
+
